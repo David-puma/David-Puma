@@ -81,12 +81,12 @@ When I'm away from the keyboard, you'll probably find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=David-Puma&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=David-Puma&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=David-puma&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=David-puma&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Puma&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-puma&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
