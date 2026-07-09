@@ -82,7 +82,7 @@ When I'm away from the keyboard, you'll probably find me:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=David-puma&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=David-puma&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=David-puma&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
