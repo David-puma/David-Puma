@@ -1,4 +1,4 @@
-# Hi there, I'm David Puma 👋
+# Hi nerds, I'm David Puma 👋
 
 ### B.Sc. CSIT Student • Web Developer • Lifelong Learner
 
@@ -81,12 +81,12 @@ When I'm away from the keyboard, you'll probably find me:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=David-puma&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=David-puma&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-puma&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
